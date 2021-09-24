@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vladk\source\repos\Laba 2.2\Laba 2.2\Source.cpp(57,22): warning C4101: start1: неиспользованная локальная переменная
+C:\Users\vladk\source\repos\Laba 2.2\Laba 2.2\Source.cpp(57,30): warning C4101: end1: неиспользованная локальная переменная
+  Laba 2.2.vcxproj -> C:\Users\vladk\source\repos\Laba 2.2\Debug\Laba 2.2.exe

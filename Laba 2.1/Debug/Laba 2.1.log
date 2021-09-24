@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\vladk\source\repos\Laba 2.1\Laba 2.1\Source.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vladk\source\repos\Laba 2.1\Laba 2.1\Source.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vladk\source\repos\Laba 2.1\Laba 2.1\Source.cpp(15,11): warning C4101: max2: неиспользованная локальная переменная
+  Laba 2.1.vcxproj -> C:\Users\vladk\source\repos\Laba 2.1\Debug\Laba 2.1.exe
